@@ -4,7 +4,7 @@ Deep learning based Self Driving Car using Udacity Simulator
 
 
 
-<img src="output1.png" width="50%">
+<img src="output1.png" width="80%">
 
 
 
@@ -14,4 +14,4 @@ Deep learning based Self Driving Car using Udacity Simulator
 
 
 
-<img src="output2.png" width="40%">
+<img src="output2.png" width="80%">
